@@ -6,12 +6,6 @@ Um aplicativo Android moderno para troca de itens entre usuários, desenvolvido 
 
 TrocaBEM é uma plataforma que conecta pessoas interessadas em trocar objetos, promovendo sustentabilidade e economia colaborativa. O app permite que usuários cadastrem itens, encontrem outros interessados em trocas e se conectem de forma segura.
 
-## 📱 Screenshots
-
-| Tela de Login | Lista de Itens |
-|---------------|----------------|
-| ![Login](screenshots/login.png) | ![Items](screenshots/items.png) |
-
 ## ✨ Funcionalidades
 
 ### 🔐 Autenticação
@@ -187,13 +181,6 @@ data class Item(
 - [ ] Monitoramento de performance
 - [ ] Acessibilidade
 
-## 🤝 Contribuindo
-
-1. **Fork** o projeto
-2. Crie uma **branch** para sua feature (`git checkout -b feature/AmazingFeature`)
-3. **Commit** suas mudanças (`git commit -m 'Add some AmazingFeature'`)
-4. **Push** para a branch (`git push origin feature/AmazingFeature`)
-5. Abra um **Pull Request**
 
 ## 📝 Licença
 
@@ -201,23 +188,8 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ## 👥 Autores
 
-- **Seu Nome** - *Desenvolvimento inicial* - [@seu-github](https://github.com/seu-usuario)
+- **Geiziane Silva** - *Desenvolvimento inicial* - [@geizii](https://github.com/geizii)
 
-## 🙏 Agradecimentos
-
-- Design inspirado nas melhores práticas de Material Design
-- Comunidade Android/Kotlin por recursos e documentação
-- Contribuidores e testadores
-
-## 📞 Suporte
-
-Se você encontrar algum problema ou tiver sugestões:
-
-- 🐛 **Issues:** [GitHub Issues](https://github.com/seu-usuario/trocabem/issues)
-- 💬 **Discussões:** [GitHub Discussions](https://github.com/seu-usuario/trocabem/discussions)
-- 📧 **Email:** seu-email@exemplo.com
-
----
 
   <sub>Construído com ❤️ por <a href="https://github.com/geizii">Geiziane Silva</a>
 </div>
